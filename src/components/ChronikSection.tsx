@@ -92,10 +92,13 @@ const ChronikSection = () => {
                 Hüterin des Morgens
               </span>
               <span className="px-4 py-2 rounded-full bg-primary/10 border border-primary/20 font-display text-sm text-primary tracking-wide">
-                Oberste Befehlshaberin des Maßes
+                Höhste Gottheit
               </span>
               <span className="px-4 py-2 rounded-full bg-primary/10 border border-primary/20 font-display text-sm text-primary tracking-wide">
                 Wächterin über Licht und Schatten
+              </span>
+              <span className="px-4 py-2 rounded-full bg-primary/10 border border-primary/20 font-display text-sm text-primary tracking-wide">
+                Oberste Befehlshaberin
               </span>
             </div>
           </div>
